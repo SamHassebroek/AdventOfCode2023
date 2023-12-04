@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\bin\Debug\net6.0\Day2Puzzle2.exe
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\bin\Debug\net6.0\Day2Puzzle2.deps.json
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\bin\Debug\net6.0\Day2Puzzle2.runtimeconfig.json
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\bin\Debug\net6.0\Day2Puzzle2.dll
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\bin\Debug\net6.0\Day2Puzzle2.pdb
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.AssemblyInfo.cs
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.dll
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\refint\Day2Puzzle2.dll
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.pdb
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\Day2Puzzle2.genruntimeconfig.cache
+C:\Users\Sam\Documents\AoC23\Day2Puzzle2\obj\Debug\net6.0\ref\Day2Puzzle2.dll
