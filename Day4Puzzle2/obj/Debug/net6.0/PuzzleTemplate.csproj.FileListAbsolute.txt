@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\bin\Debug\net6.0\PuzzleTemplate.exe
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\bin\Debug\net6.0\PuzzleTemplate.deps.json
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\bin\Debug\net6.0\PuzzleTemplate.runtimeconfig.json
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\bin\Debug\net6.0\PuzzleTemplate.dll
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\bin\Debug\net6.0\PuzzleTemplate.pdb
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.AssemblyInfo.cs
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.dll
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\refint\PuzzleTemplate.dll
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.pdb
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\PuzzleTemplate.genruntimeconfig.cache
+C:\Users\Sam\Documents\AoC23\AdventOfCode2023\Day4Puzzle2\obj\Debug\net6.0\ref\PuzzleTemplate.dll

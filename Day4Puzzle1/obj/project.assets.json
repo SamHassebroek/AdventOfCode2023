@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Documents\\AoC23\\AdventOfCode2023\\Day3Puzzle1\\Day3Puzzle1.csproj",
-      "projectName": "Day3Puzzle1",
-      "projectPath": "C:\\Users\\Sam\\Documents\\AoC23\\AdventOfCode2023\\Day3Puzzle1\\Day3Puzzle1.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\AoC23\\AdventOfCode2023\\Day4Puzzle1\\PuzzleTemplate.csproj",
+      "projectName": "PuzzleTemplate",
+      "projectPath": "C:\\Users\\Sam\\Documents\\AoC23\\AdventOfCode2023\\Day4Puzzle1\\PuzzleTemplate.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Documents\\AoC23\\AdventOfCode2023\\Day3Puzzle1\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\AoC23\\AdventOfCode2023\\Day4Puzzle1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",

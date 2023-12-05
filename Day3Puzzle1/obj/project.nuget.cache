@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7iM+BP/7pwx3j1c9RrMtNBOLQw2UNcueT1+r5LCDXXWzRXrKdzp+m4IU2WeqWZeGx7k5QrG/YlaESZW4iRUQjw==",
+  "dgSpecHash": "qsp40WT0oYuQaOKofjn4az+JuR7qEGrV7pQDEF6S1+O5iUPnZSHlbxqmPWNhTQW/GXzHUqAq3L9BFpNR8DiQaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sam\\Documents\\AoC23\\Day3Puzzle1\\Day3Puzzle1.csproj",
+  "projectFilePath": "C:\\Users\\Sam\\Documents\\AoC23\\AdventOfCode2023\\Day3Puzzle1\\Day3Puzzle1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
